@@ -1,0 +1,14 @@
+# Entry files only: main.py, README.md, LICENSE. Everything else is work material.
+engine.py
+engine_c.py
+test_perft.py
+test_perft_c.py
+bench.py
+elo.py
+run_trial.sh
+run_trial_bot.sh
+tiny-chess-01-prompt.txt
+tiny-chess-01-requirements.json
+tiny-chess-01-checks.txt
+tiny-chess-01-kit.tar.gz
+tiny-chess-01-kit/
